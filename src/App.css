@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+
+.App-intro {
+  font-size: large;
+  padding: 20px;
+  color: rgb(64, 104, 140);
+}
+
+.score {
+  font-size: 30px;
+}
+

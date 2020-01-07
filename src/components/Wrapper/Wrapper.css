@@ -1,0 +1,28 @@
+.wrapper {
+    margin: 0 auto;
+    padding-top: 50px;
+    height: 100%;
+    width:60%;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 20px;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+  }
+
+.wrapperShake {
+  margin: 0 auto;
+  padding-top: 50px;
+  background: transparent;
+  height: 100%;
+  width:60%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 20px;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+ 
+}
+  
